@@ -1,5 +1,6 @@
 import Benefits from "./components/Benefits";
 import Contact from "./components/Contact";
+import DemoModal from "./components/DemoModal";
 import Features from "./components/Features";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
